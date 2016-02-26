@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Spyros Lambrinidis]]></title>
         <description><![CDATA[Spyros Lambrinidis]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/spyros-lambrinidis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 07:56:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 08:00:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/spyros-lambrinidis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[All the girls go]]></title>
-            <description><![CDATA[<article><h1>All the girls go</h1><p>My first one</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fad1899e-0012-46c0-bf4d-35469a0d246b.JPG"></article>]]></description>
-            <link>undefinedall-the-girls-go/index.html</link>
+            <description><![CDATA[<article><h1>All the girls go</h1><p>My first one</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f16ac8b064c981be9f8b9ea455ea830808c97c35.jpg"></article>]]></description>
+            <link>https://thegrid.ai/spyros-lambrinidis/all-the-girls-go/index.html</link>
             <guid isPermaLink="false">73a4066c-473e-4c38-85f8-73e2effe1945</guid>
-            <pubDate>Fri, 26 Feb 2016 07:55:26 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 08:00:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
