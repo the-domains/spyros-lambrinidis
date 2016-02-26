@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Crazy crazy girl. Why did you move out
-datePublished: '2016-02-26T07:55:26.628Z'
-dateModified: '2016-02-26T07:55:17.880Z'
+datePublished: '2016-02-26T08:00:18.020Z'
+dateModified: '2016-02-26T07:59:52.927Z'
 title: All the girls go
 author: []
+sourcePath: _posts/2016-02-26-all-the-girls-go.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-all-the-girls-go.md
-published: true
 url: all-the-girls-go/index.html
 _type: Article
 
